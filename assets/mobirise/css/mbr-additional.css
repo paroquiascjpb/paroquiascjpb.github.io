@@ -1386,6 +1386,9 @@ body {
   padding-bottom: 135px;
   background-image: url("../../../assets/images/49949280-1177345525747923-1243324609068007424-n-820x312.png");
 }
+#instagram-feed-block-d .inst__title {
+  color: #432727;
+}
 .cid-rkUv8oBWyi .navbar {
   padding: .5rem 0;
   background: #ffffff;
