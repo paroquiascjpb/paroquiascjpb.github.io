@@ -3,12 +3,6 @@
 		<loc>http://coriesu.com.br/index.html</loc>
 	</url>
 	<url>
-		<loc>http://coriesu.com.br/page6.html</loc>
-	</url>
-	<url>
-		<loc>http://coriesu.com.br/page7.html</loc>
-	</url>
-	<url>
 		<loc>http://coriesu.com.br/comunidades.html</loc>
 	</url>
 	<url>
@@ -22,5 +16,11 @@
 	</url>
 	<url>
 		<loc>http://coriesu.com.br/fotos.html</loc>
+	</url>
+	<url>
+		<loc>http://coriesu.com.br/Arquivos.html</loc>
+	</url>
+	<url>
+		<loc>http://coriesu.com.br/História.html</loc>
 	</url>
 </urlset>
