@@ -3,9 +3,6 @@
 		<loc>http://coriesu.com.br/index.html</loc>
 	</url>
 	<url>
-		<loc>http://coriesu.com.br/page1.html</loc>
-	</url>
-	<url>
 		<loc>http://coriesu.com.br/page6.html</loc>
 	</url>
 	<url>
@@ -22,5 +19,8 @@
 	</url>
 	<url>
 		<loc>http://coriesu.com.br/pastorais.html</loc>
+	</url>
+	<url>
+		<loc>http://coriesu.com.br/fotos.html</loc>
 	</url>
 </urlset>
